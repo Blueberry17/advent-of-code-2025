@@ -8,12 +8,10 @@ for line in data:
     else:
         mult = 1
 
-    for i in range(int(line[1:])):
-        current += mult
-        current %= 100
-        if current == 0:
-            total += 1
-
-    print(current, total)
+    to_add = int(line[1:])
+    total += to_add // 100
+    if current + ((to_add % 100) * mult) >= 100 or current + ((to_add % 100) * mult) <= 0 and current != 0:
+        total += 1
+    current = (current + to_add * mult) % 100
 
 print(total)
