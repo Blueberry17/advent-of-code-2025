@@ -13,3 +13,5 @@ python3 src/day01/p1.py
 
 # Lessons
 1. Got to make the most of the 12 days!
+2. Regex can be simpler sometimes.
+
