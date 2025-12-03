@@ -12,6 +12,8 @@ for line in data:
             if int(j) > maximum:
                 maximum = int(j)
                 max_index = old_max_index + index + 1
+                if maximum == 9:
+                    break
         num += str(maximum)
         old_max_index = max_index
     total += int(num)
