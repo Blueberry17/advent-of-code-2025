@@ -13,5 +13,5 @@ python3 src/day01/p1.py
 
 # Lessons
 1. Got to make the most of the 12 days!
-2. Regex can be simpler sometimes.
-
+2. Regex solutions can always make you feel stupid.
+3. Thinking for a little bit always helps!
