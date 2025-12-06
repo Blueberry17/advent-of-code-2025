@@ -17,3 +17,4 @@ python3 src/day01/p1.py
 3. Thinking for a little bit always helps!
 4. Reading the puzzle input for those few extra seconds always comes in handy.
 5. Think a bit more carefully about being clear with more fiddley logic.
+6. Consider complexities before delving, especially with some of the later puzzles.
