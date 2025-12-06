@@ -16,3 +16,4 @@ python3 src/day01/p1.py
 2. Regex solutions can always make you feel stupid.
 3. Thinking for a little bit always helps!
 4. Reading the puzzle input for those few extra seconds always comes in handy.
+5. Think a bit more carefully about being clear with more fiddley logic.
