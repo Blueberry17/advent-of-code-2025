@@ -19,3 +19,4 @@ python3 src/day01/p1.py
 5. Think a bit more carefully about being clear with more fiddley logic.
 6. Consider complexities before delving in, especially with some of the later puzzles.
 7. Self-reflection pays off!
+8. Woohoo for Networkx!
