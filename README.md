@@ -20,3 +20,4 @@ python3 src/day01/p1.py
 6. Consider complexities before delving in, especially with some of the later puzzles.
 7. Self-reflection pays off!
 8. Woohoo for Networkx!
+9. Experience pays off.
