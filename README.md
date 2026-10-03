@@ -2,8 +2,11 @@
 Solutions to the [2025 Advent of Code](https://adventofcode.com/2025) by Anthony Berry
 
 Each part for each day is stored in a separate file.
-Solutions are uploaded in a very similar state to how they originally were, when first obtaining the correct answer.
+Solutions are uploaded in a very similar state to how they originally were when first obtaining the correct answer.
 These may be updated in following commits.
+
+# University of Bath Computer Science Society (BCSS) top-10 leaderboard
+![BCSS Leaderboard](BCSS%20Leaderboard.png)
 
 # Running
 To run the code for a specific day and part with this as the root directory, use the following format.
