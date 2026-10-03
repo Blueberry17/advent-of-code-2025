@@ -26,3 +26,4 @@ python3 src/day01/p1.py
 9. Experience pays off.
 10. Remember to make sure to prune properly.
 11. These libraries might me making things a little too easy.
+12. Sneaky, very sneaky. Always be wary of Eric's tricks!
