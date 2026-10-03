@@ -6,7 +6,7 @@ Solutions are uploaded in a very similar state to how they originally were when 
 These may be updated in following commits.
 
 # University of Bath Computer Science Society (BCSS) top-10 leaderboard
-![BCSS Leaderboard](BCSS%20Leaderboard.png)
+![BCSS Leaderboard](BCSS%20leaderboard.png)
 
 # Running
 To run the code for a specific day and part with this as the root directory, use the following format.
