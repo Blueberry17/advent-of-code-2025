@@ -17,10 +17,11 @@ python3 src/day01/p1.py
 # Lessons
 1. Got to make the most of the 12 days!
 2. Regex solutions can always make you feel stupid.
-3. Thinking for a little bit always helps!
+3. Thinking for a little bit always helps.
 4. Reading the puzzle input for those few extra seconds always comes in handy.
 5. Think a bit more carefully about being clear with more fiddley logic.
 6. Consider complexities before delving in, especially with some of the later puzzles.
-7. Self-reflection pays off!
+7. Self-reflection pays off.
 8. Woohoo for Networkx!
 9. Experience pays off.
+10. Remember to make sure to prune properly.
