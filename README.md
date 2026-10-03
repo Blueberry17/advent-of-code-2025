@@ -25,3 +25,4 @@ python3 src/day01/p1.py
 8. Woohoo for Networkx!
 9. Experience pays off.
 10. Remember to make sure to prune properly.
+11. These libraries might me making things a little too easy.
